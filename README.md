@@ -1,8 +1,13 @@
 # Prodigy_DS_02
-📊 Visualizing the Distribution of a Variable
-To better understand the data, it's useful to visualize the distribution of both categorical and continuous variables. This helps reveal patterns, imbalances, and potential insights at a glance.
+🔍 Exploratory Data Analysis on Titanic Dataset – Prodigy Infotech Internship Task 2
+This project is a part of my Data Science Internship at Prodigy Infotech, where I performed comprehensive Exploratory Data Analysis (EDA) on the famous Titanic dataset from Kaggle.
+🧼 Task Description:
+The main objectives of this task were to:
 
-🟦 Example 1: Distribution of Gender (Categorical Variable)
-We used a count plot to show the number of male and female passengers in the Titanic dataset. This helps us see if the dataset is balanced in terms of gender.
-🟨 Example 2: Distribution of Age (Continuous Variable)
-We used a histogram to visualize how passenger ages are distributed. This can help us identify age groups with higher representation or gaps in the data.
+Perform data cleaning to handle missing, duplicate, and inconsistent values
+
+Explore the relationships between different variables
+
+Identify patterns and trends in the data using visualizations
+
+Derive insights that could help in understanding the survival factors
